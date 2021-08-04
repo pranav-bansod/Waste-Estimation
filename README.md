@@ -40,13 +40,13 @@ Making Sense of the Data – Bird’s Eye View
 
 ![WhatsApp Image 2021-08-04 at 11 16 11 PM](https://user-images.githubusercontent.com/81433469/128229760-718f181a-0ce6-4f35-b5a7-6240d8dbe78d.jpeg)
 
-Using Regression Model Approach!
+Using Regression Model Approach
 
-[WhatsApp Image 2021-08-04 at 11 16 18 PM](https://user-images.githubusercontent.com/81433469/128229838-22817906-a676-4d01-aafd-ceca0ae10d29.jpeg)
+![WhatsApp Image 2021-08-04 at 11 16 18 PM](https://user-images.githubusercontent.com/81433469/128230067-ab290a9a-4e3a-4990-a88b-8aa8751415fb.jpeg)
 
-Classification model!
+Classification model
 
-[WhatsApp Image 2021-08-04 at 11 16 21 PM](https://user-images.githubusercontent.com/81433469/128229868-8341db00-3873-454c-81af-15195d6bcef2.jpeg)
+![WhatsApp Image 2021-08-04 at 11 16 21 PM](https://user-images.githubusercontent.com/81433469/128229868-8341db00-3873-454c-81af-15195d6bcef2.jpeg)
 
 Conclusion
 
