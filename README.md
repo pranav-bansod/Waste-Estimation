@@ -60,4 +60,12 @@ Output -
 
 ![WhatsApp Image 2021-08-04 at 11 16 34 PM](https://user-images.githubusercontent.com/81433469/128229935-207b9f90-c472-40b0-8403-18f7186092bc.jpeg)
 
+Future Scope
 
+1. Optimal Route Planning for waste collection using Operation Research Techniques
+2. Asset Management for trash bins for effective management
+3. Eventually setting up the system to – Asset Management, Waste Monitoring and Route Planning solution which can then finally be delivered to the Government as a complete end to end solution.
+
+
+
+Note - This Project is done with authorization from Udgir Muncipal Corportaion, hence the dataset cannot be shared nor distributed publicly. Above is the methodology and solution we proposed. Strictly no permission for copyright or any infringement.
